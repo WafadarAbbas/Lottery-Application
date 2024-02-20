@@ -1,0 +1,13 @@
+*why this project is important*
+ 
+we get to know how to intgerate Node with react
+how to manage api
+how to pass data through api
+
+*Data Base*
+we use mongodb
+every Api fetch data from data base
+
+
+
+
